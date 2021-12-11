@@ -9,3 +9,5 @@ Next, we review the most popular times for a ride and determining the best times
 
 ## Bikes in Need
 The final slide shows that we have several bikes that are more popular than others. I would recommend determining where the most popular bikes are located (start and end) and determining if multiple stations in the same location are warranted. I would then review population trends by using the census data located in Tableau and determine the most profitable new locations in the same area while simultaneously removing bike stations that are not as profitable.
+
+[link to dashboard] (https://public.tableau.com/app/profile/ambrea3308/viz/BikeAnalysisAC/ChallengeStory?publish=yes)
