@@ -1,8 +1,8 @@
 # Bike Analysis
-The purpose of this analysis is to determine if rental bike stations would be profitable in other states by breaking down users by gender and reviewing the analysis of times the bikes are in use.
+The purpose of this analysis is to determine if rental bike stations would be profitable in other states by breaking down users by gender and reviewing the analysis of times the bikes are in use. Bikes that are not in use do not actively lose money but we are leaving profits on the table if we don't try to pull in more customers during non peak times
 
 ## Gender Breakdown
-First, we start by breaking down riders by gender and determining the best times of day by rider. Additionally, we break down subscribers by gender and weekday usage to get an accurate point of reference of popular times.
+First, we start by breaking down riders by gender and determining the best times of day by rider. Additionally, we break down subscribers by gender and weekday usage to get an accurate point of reference of popular times. Once we determine the popular times we can determine if we should charge additional fees for longer rides or offer discounts based on the time of day.
 ![image](https://user-images.githubusercontent.com/89363928/145697373-b21e96e7-7a05-43dc-8fd9-32c0d506a19f.png)
 ![image](https://user-images.githubusercontent.com/89363928/145697384-a6b0a7ff-17a8-472b-95d0-d071a855b5f0.png)
 ![image](https://user-images.githubusercontent.com/89363928/145697397-46b76c65-d8db-42f8-8e24-1dd08bf5315f.png)
@@ -10,7 +10,7 @@ First, we start by breaking down riders by gender and determining the best times
 
 
 ## Duration Analysis
-Next, we review the most popular times for a ride and determining the best times of day for rides, as well as when the bikes will be returned to the stations. By determining the times and dates of rides, we can determine when to repair the bikes.
+Next, we review the most popular times for a ride and determining the best times of day for rides, as well as when the bikes will be returned to the stations. By determining the times and dates of rides, we can determine when to repair the bikes as well as station maintenance.
 ![image](https://user-images.githubusercontent.com/89363928/145697405-77a92e63-5c2c-4c7e-a6dd-941e12f0bdf8.png)
 ![image](https://user-images.githubusercontent.com/89363928/145697414-b898dea0-a3e9-43b6-b6a5-33f1fb2617e8.png)
 
